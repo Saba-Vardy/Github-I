@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+/* navigaciis dasawyisi */
+.nav-li {
+    display: inline-block;
+    margin-left: 27px;
+    vertical-align: middle;
+    margin-top: 20px;
+    font-family: 'Roboto', sans-serif;  
+}
+
+.logo {
+    color: #FA6980;
+}
+.home {
+    margin-left: 92px;
+    color: black;
+}
+.disc {
+    color: #A6ADB4;
+}
+.photo {
+    color: #A6ADB4;
+}
+.cont {
+    color: #A6ADB4;
+}   
+.disc:hover {
+    color: #CCCCFF;
+}
+.photo:hover{
+    color: #CCCCFF;
+}
+.cont:hover{
+    color: #CCCCFF;
+} 
+/* navigaciis dasasruli */
+/* section 1  */
+.sec1 {
+    margin-left: 140px;    
+}
+.image-text {
+    position: relative;
+    margin: 40px 40px;
+    display: inline-block;
+}
+.text-on-image {
+    position: absolute;
+	top: 28px;
+	left: 40px;
+    font-family: 'Roboto', sans-serif;  
+    font-size: 16px;
+	color: #FFFFFF;			
+}
+.sec1-satauri {
+    margin: 25px 40px;
+    font-family: 'Roboto', sans-serif;  
+    font-size: 24px;
+    font-weight: bold;
+}
+.under-image {
+    width: 280px;
+    font-size: 13px;
+    margin: 66px 40px;
+    line-height: 21px;
+    font-family: 'Roboto', sans-serif;
+}
+.block-time {
+    margin-top: 10px;
+}
+/* section 2 */
+.sec2 {
+    margin-left: 140px;
+}
+.sec2-images {
+    display: inline-block;
+    width: 760px;
+    margin-left: 40px;
+}
+.tye {
+    margin-top: 40px;
+}
+.sami-surati {
+    display: inline-block;
+	width: 360px;
+	vertical-align: top;
+	margin-left: 40px;
+    margin-top: 30px;
+}
+.shuasurati {
+    margin-top: 102px;
+    margin-bottom: 102px;
+}
+.footer {
+	background: #A6ADB4;
+	
+    font-family: 'Roboto', sans-serif;
+    margin-top: 34px;
+    
+}
+.logo2{
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FFFFFF;
+	vertical-align: top;
+	margin-left: 190px;
+	margin-top: 56px;
+}
+.chamonatvali{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 90px;
+	margin-top: 56px;
+    font-family: 'Roboto', sans-serif;  
+	font-size: 13px;
+	margin-bottom: 8px;
+    line-height: 20px;
+}
+.footer-text {
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 106px;
+    margin-top: 65px;
+    font-size: 11px;
+}
+.icons {
+    display: inline-block;
+    margin-top: 56px;
+    margin-left: 170px;   
+}
+.icons-dashoreba {
+    margin-left: 37px;
+}
